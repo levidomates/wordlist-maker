@@ -1,6 +1,6 @@
 # Wordlist Maker
 
-This is a password producer for etichal hacking purpose. 
+This is a wordlist maker for etichal hacking purpose. 
 
 ## Usage 
 
