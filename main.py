@@ -34,22 +34,22 @@ def get_argumets():
 	
 	parser.add_option("-n","--name",dest="filename",
 							help="""+----------------------+
-									| Write the file name. |
-									+----------------------+
-									| Example   [filename] |
-									+----------------------+""")
+								| Write the file name. |
+								+----------------------+
+								| Example   [filename] |
+								+----------------------+""")
 	 						
 	parser.add_option("-p","--password",dest="password",
 
 							help="""+---------------------------------+
-									| For uppercase use            [U]|
-									+---------------------------------+
-								    | For lowercase use            [l]|
-								    +---------------------------------+
-								    | For number use               [n]|
-									+---------------------------------+
-									| Example                  [UUUln]|
-									+---------------------------------+""")
+								| For uppercase use            [U]|
+								+---------------------------------+
+								| For lowercase use            [l]|
+								+---------------------------------+
+								| For number use               [n]|
+								+---------------------------------+
+								| Example                  [UUUln]|
+								+---------------------------------+""")
 										
 	(options, args) = parser.parse_args()
 	
