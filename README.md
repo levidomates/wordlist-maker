@@ -1,4 +1,4 @@
-# Password Producer
+# Wordlist Maker
 
 This is a password producer for etichal hacking purpose. 
 
